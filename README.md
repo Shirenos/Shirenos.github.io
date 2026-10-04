@@ -8,7 +8,7 @@ Personal card website of [Shiren](https://github.com/Shirenos), published with G
 ## What's on the page
 
 - Intro with a typing effect ("Hi, I'm Shiren") and an animated aurora background
-- About me, projects (a Telegram habit tracker bot and the interactive 3D [Universe](https://shirenos.github.io/universe/) site), skills and contacts
+- About me, projects (a Telegram habit tracker bot, the interactive 3D [Universe](https://shirenos.github.io/universe/) site and [ml-from-scratch](https://github.com/Shirenos/ml-from-scratch), classic ML algorithms in plain NumPy), skills and contacts
 - Glassmorphism cards, scroll-reveal animations, keyboard-friendly navigation
 - Respects `prefers-reduced-motion`
 
