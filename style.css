@@ -105,6 +105,8 @@ h1 { font-family: var(--font-head); font-weight: 700; font-size: clamp(2.6rem, 8
 .project-head h3 { font-family: var(--font-head); font-size: 1.6rem; margin: 0; }
 .project-icon { display: grid; place-items: center; width: 52px; height: 52px; border-radius: 16px; background: linear-gradient(135deg, rgba(139,109,255,.35), rgba(34,211,238,.3)); border: 1px solid var(--glass-border); }
 .project p { color: var(--muted); margin: 0 0 1.2rem; }
+.project + .project { margin-top: 1.6rem; }
+.project-links { display: flex; flex-wrap: wrap; gap: .8rem; }
 .tags { display: flex; flex-wrap: wrap; gap: .5rem; margin-bottom: 1.6rem; }
 .tags li { font-size: .85rem; font-weight: 500; padding: .25rem .8rem; border-radius: 999px; color: #d6ccff; background: rgba(139,109,255,.16); border: 1px solid rgba(139,109,255,.35); }
 
